@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AMTECHBJ portfolio-website
 
 ## AMTECH Website with signup form and Login gateways
@@ -9,3 +10,7 @@ AMTECHBJ portfolio-website
  The AMTECH project is situated in the first branch named: # my recent-portfolio-website
  
 
+=======
+# amtechbj-booking-site
+AMTECH-BJ Company Webpage 
+>>>>>>> 0b0badb67178d9c259a48276765efb852576e5c9
