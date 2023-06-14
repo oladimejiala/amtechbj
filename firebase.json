@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": ".",
+    "site": "amtech-bj-533bd",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
